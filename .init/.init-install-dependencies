@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/weather-forecast-viewer-2d3cc4f8/weather_frontend"
+}
